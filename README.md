@@ -23,4 +23,4 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white" />
 </p>
 # 👋 你好，我是 [胡冰清]
-## <img src="https://readme-typing-svg.herokuapp.com/?lines=正在探索GitHub的奥秘&center=false&width=500&height=50">
+## <img src="https://readme-typing-svg.herokuapp.com/?lines=May the bridges I burn, light my way&center=false&width=500&height=50">
